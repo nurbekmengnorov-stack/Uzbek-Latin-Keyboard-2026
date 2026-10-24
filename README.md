@@ -1,6 +1,6 @@
 # Uzbek-Latin-Keyboard-2026
 Yangi O'zbek lotin alifbosi (2026) uchun rasmiy Windows klaviaturasi
-# 🇺🇿 Yangi O‘zbek Alifbosi (2026) – Rasmiy Windows Klaviaturasi
+# Uz Yangi O‘zbek Alifbosi (2026) – Rasmiy Windows Klaviaturasi
 
 Yangi tasdiqlangan o'zbek lotin alifbosi (**Ğ, Ş, Ö, Ç**) harflarini Windows tizimida qulay va xatosiz yozish uchun ishlab chiqilgan rasmiy klaviatura terilmasi (Layout). 
 
